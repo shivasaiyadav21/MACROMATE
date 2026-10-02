@@ -36,7 +36,7 @@ st.subheader("Your AI Nutrition Buddy")
 
 st.write(
     "Understand your food, track your nutrition, "
-    "and make smarter choices with AI."
+    "and Know your nutrition.."
 )
 
 st.divider()
